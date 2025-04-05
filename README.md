@@ -19,7 +19,7 @@ A generative trivia website built with Next.js, Firebase, NextAuth, Google OAuth
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Alvalens/generative-trivia.git
+   git clone [https://github.com/Alvalens/generative-trivia.git](https://github.com/Casey11216/Generative-Trivia
    cd generative-trivia
    ```
 2. **Install dependencies**:
